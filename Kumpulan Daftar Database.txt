@@ -1,0 +1,6 @@
+Kumpulan Daftar Database
+1. Data NIK
+2. Data Nama Ikan
+3. Data Nama Penduduk
+4. Data Citra Bentuk Daun
+5. Data Citra Objek Kendaraan

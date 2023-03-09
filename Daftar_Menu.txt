@@ -1,0 +1,28 @@
+cout<<"\nSpicy_Hot_Chicken\t\t25000";
+	cout<<"\nDouble_Spicy_Hot_Chicken\t35000";
+	cout<<"\nSpicy_Chicken\t\t\t20000";
+	cout<<"\nDouble_Spicy_Chicken\t\t30000";
+	cout<<"\nSpicy_Crispy_Potato\t\t18000";
+	cout<<"\nSpicy_Potato_Cheese\t\t20000";
+	cout<<"\nChicken_Smackdown\t\t22000";
+	cout<<"\nDouble_Chicken_Smackdown\t32000";
+	cout<<"\nFire_Satay_Spirit\t\t30000";
+	cout<<"\nBeef_Eruption\t\t\t40000";
+	cout<<"\nGiant_Beef_Eruption\t\t60000";
+	cout<<"\nBurger_Devil\t\t\t21000";
+	cout<<"\nStack_Burger_Devil\t\t28000";
+	cout<<"\nDomination_Pizza_Chicken\t35000";
+	cout<<"\nDomination_Pizza_Beef\t\t40000";
+	cout<<"\nVolcanic_Meatballs\t\t27000";
+	cout<<"\nVolcanic_Pasta_Noodle\t\t21000";
+	cout<<"\n\nMENU MINUMAN\t\tHARGA SATUAN";//daftar menu minuman
+	cout<<"\n-------------------------------------";
+	cout<<"\nDINGIN\n";
+	cout<<"\nVolcanic_Choco_Ice\t\t15000";
+	cout<<"\nMix_Gatcha_Fruit\t\t18000";
+	cout<<"\nTea_Ice_Revenger\t\t8000";
+	cout<<"\nLemon_King_of_Sour\t\t14000";
+	cout<<"\n\nPANAS\n";
+	cout<<"\nVolcanic_Choco\t\t\t15000";
+	cout<<"\nExpresso_Hard_Coffee\t\t12000";
+	cout<<"\nTea_Revenger\t\t\t8000";
